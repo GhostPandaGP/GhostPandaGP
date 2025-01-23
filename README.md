@@ -6,6 +6,15 @@
 Frontend projects:
 - https://github.com/GhostPandaGP/pmmtf with beutiful animations
 
+Python projects:
+- https://github.com/GhostPandaGP/crypto_bot -
+- 
+
+Other projects:
+- Hackatons:
+- * https://github.com/GhostPandaGP/vhack
+  * 
+
 <!--
 **GhostPandaGP/GhostPandaGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
